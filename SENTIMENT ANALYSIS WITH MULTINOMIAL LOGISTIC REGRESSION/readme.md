@@ -1,1 +1,1 @@
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@<ada1ndukwe>/<-1>"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@<ada1ndukwe>/<-1>" alt="Article"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ada1ndukwe/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ada1ndukwe/0" alt="Article"></a>
